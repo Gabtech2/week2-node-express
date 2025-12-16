@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My Week2 API!",
   "license": "ISC",
-  "author": "",
+  "author": "Gabtech",
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
