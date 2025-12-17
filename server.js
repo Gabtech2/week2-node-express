@@ -4,6 +4,7 @@ const express = require("express");
 const app = express();
 const PORT = process.env.PORT 
 
+//MIDDLEWARE
 app.use(express.json());
 
 //ROUTES
